@@ -1,0 +1,25 @@
+{
+  "name": "@shohan494/npm",
+  "version": "2.1.1",
+  "description": "npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "shohan",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shohan494/npmhowto.git"
+  },
+  "keywords": [
+    "npmhowto"
+  ],
+  "bugs": {
+    "url": "https://github.com/Shohan494/npmhowto/issues"
+  },
+  "homepage": "https://github.com/Shohan494/npmhowto#readme"
+}
